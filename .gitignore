@@ -1,0 +1,6 @@
+venv/
+#todo_app/migrations/
+#todo_app/__pycache__/
+#todo_project/
+
+db.sqlite3
